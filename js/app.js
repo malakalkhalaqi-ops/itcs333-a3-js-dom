@@ -123,3 +123,4 @@
 
     updateCounter();
 })();
+// Assignment 3 completed
